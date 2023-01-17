@@ -15,3 +15,9 @@ Username Dicoding: [andrewbj](https://www.dicoding.com/users/andrewbj)
 | Metrik Evaluasi | Metrik yang digunakan untuk mengevaluasi performa model *machine learning* adalah AUC (*Area Under the ROC Curve*), Binary Accuracy, TFMA Example Count, False Negatives, False Positive, True Negatives, dan True Positive. |
 | Performa Model | Performa model yang telah dibuat termasuk ke dalam kategori yang cukup baik dan ideal dengan tingkat binary_accuracy sebesar 86% dan val_binary_accuracy sebesar 81% |
 | Kesimpulan | Model yang telah berhasil dibangun telah diuji coba dapat bekerja dan dapat melakukan klasifikasi berita bencana alam dengan tepat, apakah berita tersebut termasuk ke dalam berita bencana alam yang asli atau palsu. |
+
+## Referensi:
+
+[1] Badan Pusat Statistik, "Banyaknya Desa/Kelurahan Menurut Jenis Bencana Alam dalam Tiga Tahun Terakhir (Desa), 2021", *Badan Pusat Statistik*, 2021, Diambil dari: https://www.bps.go.id/indicator/168/954/1/banyaknya-desa-kelurahan-menurut-jenis-bencana-alam-dalam-tiga-tahun-terakhir.html.
+
+[2] C. M. Annur, "3,59 Juta Orang Terdampak Bencana Alam di Indonesia, Ini Rinciannya", *Katadata.co.id*, 2022, Diambil dari: https://databoks.katadata.co.id/datapublish/2022/10/19/359-juta-orang-terdampak-bencana-alam-di-indonesia-ini-rinciannya.
