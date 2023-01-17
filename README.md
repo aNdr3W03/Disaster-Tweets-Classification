@@ -1,12 +1,12 @@
-# Submission 1: Disaster Tweet Classification
+# Submission 1: Disaster Tweets Classification
 
 Nama: Andrew Benedictus Jamesie
 
-Username dicoding: [andrewbj](https://www.dicoding.com/users/andrewbj)
+Username Dicoding: [andrewbj](https://www.dicoding.com/users/andrewbj)
 
 |     | Deskripsi |
 | --- | --------- |
-| Dataset | [NLP with Disaster Tweets](https://www.kaggle.com/datasets/vbmokin/nlp-with-disaster-tweets-cleaning-data?select=train_data_cleaning.csv) |
+| Dataset | [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started) |
 | Masalah | Deskripsi masalah yang di angkat |
 | Solusi machine learning | Deskripsi solusi machine learning yang akan dibuat |
 | Metode pengolahan | Deskripsi metode pengolahan data yang digunakan |
